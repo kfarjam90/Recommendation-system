@@ -5,4 +5,4 @@ The Udemy Course Recommendation System is a Python-based web application built w
 
 ### Demo Video
 
-[![Watch the demo video](whatsapp_image.png)](https://www.youtube.com/watch?v=inF0fZ20_d8)
+[![Watch the demo video](image.png)](https://www.youtube.com/watch?v=inF0fZ20_d8)
